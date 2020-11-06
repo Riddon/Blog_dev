@@ -11,17 +11,9 @@
 
 <br>
 
-**`Install instruction`**
+**`Install instruction`** 
 
-<br>
-
-If you want to have fun, you may go to **`"BLOG"`**
-
-You need to click on ...
-
-###### or 
-
-you can do next:
+do next:
 
 - Press button `CLONE` on this project and copy `Clone with SSH` or `Clone with SSH`
 
