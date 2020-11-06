@@ -1,4 +1,17 @@
-### **"Who wants to be a millionaire?"**
+### **"Test task BLOG"**
+
+**`What was used`**
+
+- Next.JS
+- React.JS
+- ESLint and Prettier
+- TypeScript
+- styled-components
+- Axios
+
+<br>
+
+**`Install instruction`**
 
 <br>
 
